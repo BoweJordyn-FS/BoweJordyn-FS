@@ -13,15 +13,5 @@ I'm a Web Development student at **Full Sail University**, learning to build thi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bowejordyn-fs&show_icons=true&theme=tokyonight&hide_border=true" alt="Jordyn's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowejordyn-fs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 
 
