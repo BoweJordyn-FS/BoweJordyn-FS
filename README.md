@@ -5,6 +5,11 @@ I'm a Web Development student at **Full Sail University**, learning to build thi
 
 ---
 
+## My Themes 🫟
+
+- [Dark Retro](https://marketplace.visualstudio.com/items?itemName=BeauxCodes.DarkRetro)
+
+
 ## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
