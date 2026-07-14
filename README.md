@@ -8,7 +8,7 @@ I'm a Web Development student at **Full Sail University**, learning to build thi
 ## My Themes 🫟
 
 - [Dark Retro](https://marketplace.visualstudio.com/items?itemName=BeauxCodes.DarkRetro)
-- [Femme Fatale](https://github.com/BoweJordyn-FS/beauxcodes--femme-fatale)
+- [Femme Fatale](https://marketplace.visualstudio.com/items?itemName=BeauxCodes.beauxcodes--femme-fatale)
 
 
 ## Tech Stack
